@@ -1,0 +1,11 @@
+C:\Users\CANBERK\source\repos\EmirhanTugal\EmirhanTugal\bin\Debug\netcoreapp3.1\EmirhanTugal.exe
+C:\Users\CANBERK\source\repos\EmirhanTugal\EmirhanTugal\bin\Debug\netcoreapp3.1\EmirhanTugal.deps.json
+C:\Users\CANBERK\source\repos\EmirhanTugal\EmirhanTugal\bin\Debug\netcoreapp3.1\EmirhanTugal.runtimeconfig.json
+C:\Users\CANBERK\source\repos\EmirhanTugal\EmirhanTugal\bin\Debug\netcoreapp3.1\EmirhanTugal.runtimeconfig.dev.json
+C:\Users\CANBERK\source\repos\EmirhanTugal\EmirhanTugal\bin\Debug\netcoreapp3.1\EmirhanTugal.dll
+C:\Users\CANBERK\source\repos\EmirhanTugal\EmirhanTugal\bin\Debug\netcoreapp3.1\EmirhanTugal.pdb
+C:\Users\CANBERK\source\repos\EmirhanTugal\EmirhanTugal\obj\Debug\netcoreapp3.1\EmirhanTugal.csprojAssemblyReference.cache
+C:\Users\CANBERK\source\repos\EmirhanTugal\EmirhanTugal\obj\Debug\netcoreapp3.1\EmirhanTugal.AssemblyInfoInputs.cache
+C:\Users\CANBERK\source\repos\EmirhanTugal\EmirhanTugal\obj\Debug\netcoreapp3.1\EmirhanTugal.AssemblyInfo.cs
+C:\Users\CANBERK\source\repos\EmirhanTugal\EmirhanTugal\obj\Debug\netcoreapp3.1\EmirhanTugal.dll
+C:\Users\CANBERK\source\repos\EmirhanTugal\EmirhanTugal\obj\Debug\netcoreapp3.1\EmirhanTugal.pdb
